@@ -1,5 +1,5 @@
 # Unit-4-api-assignment
-In this website, you can access data about fruits, people's grades, genders, computers, writing tools, phones, drinks, books, food, tissues and 10 other eastereggs.
+In this website, you can access data about fruits, people's grades.
 in order to access these data, you would need an API key, your api key is: UDHFTGHVCJUDI.
 In order to access these data, you would need to follow the following steps:
 Step 1: Access the server ip.
@@ -11,11 +11,11 @@ These are some routes you can access
 Route 1: fruits
 Step 1:access the server
 step 2: Type in the route: (ip)/fruits/get_info
-step 3 type in the query ?fruit=(insert apple, oranges or grapes)&appid=(insert appkey)
+step 3 type in the query ?fruit=(insert apple, oranges or grapes etc)&appid=(insert appkey)
 step 4: you can find the color of these fruits
 
-Route 2 Phones
+Route 2 gradws
 step 1: access rhe server
-step 2: type in the rpite: (ip)/phones/get_info
-step 3: type in the query ?phone=(insert Huawei, iPhone, Xiaomi)
-step 4: you can find patriotness of these phones
+step 2: type in the rpite: (ip)/grades/get_info
+step 3: type in the query ?grade=(insert Leon, Richard, god)
+step 4: you can find their grades.
